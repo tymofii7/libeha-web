@@ -39,6 +39,7 @@ Zelená má priťahovať pozornosť na aktívne položky, podčiarknutia, odkazy
 - Čierne plochy nechávajú vyniknúť produktom, logu a zeleným akcentom.
 - Vhodné sú tmavé textúrované pozadia, výrazné produktové fotografie a veľké titulky.
 - Šikmé deliace línie a nepravidelné diagonálne plochy dodávajú kompozícii pohyb.
+- Úvodná sekcia môže používať široký tmavý pás so šikmým zeleným rezom; nadpisy a projektové karty majú pôsobiť ostro, výrazne a mierne industriálne.
 - Rozloženie pôsobí široko a vzdušne; obsah je zoradený do výrazných horizontálnych sekcií.
 - Efekty a dekorácie držať skôr tmavé a nenápadné, aby nekonkurovali zelenému akcentu ani hlavnému obsahu.
 
